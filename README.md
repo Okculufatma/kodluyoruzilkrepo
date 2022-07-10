@@ -10,4 +10,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 
 
-'git clone https://github.com/Okculufatma/kodluyoruzilkrepo.git'
+[//] git clone https://github.com/Okculufatma/kodluyoruzilkrepo.git
