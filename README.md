@@ -27,3 +27,5 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+https://app.patika.dev/okculuf
